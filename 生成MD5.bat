@@ -1,7 +1,7 @@
 
 # 
 set PrjName=ChannelConfigTool
-set DirName=配置文件
+# set DirName=配置文件
 set UserName=joymeng
 set AttachConfigUrl=https://raw.githubusercontent.com/joymeng/ChannelConfig/master/MD5.txt
 #
